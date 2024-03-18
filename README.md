@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AiligD
+- 👀 I’m interested in documentation and travel
+- 🌱 I’m currently learning go
+- 📫 You can reach me by email at <ailigd@proton.me>
+- 😄 Pronouns: [they/them](https://en.pronouns.page/@AiligD)
+- ⚡ Fun fact: I'm a member of the [SNP](https://snp.org)
